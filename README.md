@@ -10,4 +10,4 @@
 
 #### Future Plans
 - Mobile device support
-- Custom webpage on GitHub Pages
+- Redesigned webpage (CSS)
