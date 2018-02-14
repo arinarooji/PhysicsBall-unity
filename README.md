@@ -11,3 +11,4 @@
 #### Future Plans
 - Mobile device support
 - Redesigned webpage (CSS)
+- Further code optimization
